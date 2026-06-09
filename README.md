@@ -49,13 +49,13 @@ Meer details staan in [docs/kosten.md](docs/kosten.md).
 
 Live demo van de Bobby-verkooppagina:
 
-![Bobby live demo verkooppagina](screenshots/demo-verkooppagina-home.png)
+![Bobby live demo verkooppagina](screenshots/demo-verkooppagina-home.jpg)
 
 Publieke uitleg en kostenoverzicht:
 
-![Bobby overzicht](screenshots/bobby-overzicht.png)
+![Bobby overzicht](screenshots/bobby-overzicht.jpg)
 
-![Bobby kosten en veiligheid](screenshots/bobby-kosten-veiligheid.png)
+![Bobby kosten en veiligheid](screenshots/bobby-kosten-veiligheid.jpg)
 
 ## Wat Niet In Deze Repository Staat
 
