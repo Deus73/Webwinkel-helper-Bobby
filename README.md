@@ -47,15 +47,15 @@ Meer details staan in [docs/kosten.md](docs/kosten.md).
 
 ## Screenshots
 
-Live demo van de Bobby-verkooppagina:
-
-![Bobby live demo verkooppagina](screenshots/demo-verkooppagina-home.jpg)
-
 Publieke uitleg en kostenoverzicht:
 
 ![Bobby overzicht](screenshots/bobby-overzicht.jpg)
 
 ![Bobby kosten en veiligheid](screenshots/bobby-kosten-veiligheid.jpg)
+
+## Demo
+
+De live demo van de verkooppagina staat hier: https://mediumblue-ostrich-383608.hostingersite.com/
 
 ## Wat Niet In Deze Repository Staat
 
